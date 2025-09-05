@@ -48,12 +48,12 @@ It provides a simple login system, a personalized dashboard, and session managem
    - It displays key features like upcoming sessions, progress tracking, and easy navigation to different sections of the app.  <br>
    <img width="2879" height="1410" alt="image" src="https://github.com/user-attachments/assets/f577ee20-19d9-4267-9103-476e7ad31527" />
    Interview Q&A Section<br>
-   - This section displays a collection of commonly asked interview questions with expandable answers.  
-   - It helps users practice and revise important concepts in a structured way. 
+   - This section displays a collection of commonly asked interview questions with expandable answers.  <br>
+   - It helps users practice and revise important concepts in a structured way. <br>
    <img width="2842" height="1414" alt="image" src="https://github.com/user-attachments/assets/a91f50b0-7959-408b-80eb-4c5a84146b24" />
    Learn More (Expandable Answers)<br>
-   - Each interview question comes with a "Learn More" option that expands to reveal a detailed explanation.  
-   - This helps users not only view the question but also understand the concept behind it. 
+   - Each interview question comes with a "Learn More" option that expands to reveal a detailed explanation.  <br>
+   - This helps users not only view the question but also understand the concept behind it. <br>
    <img width="2844" height="1407" alt="image" src="https://github.com/user-attachments/assets/917a386d-3686-4534-b6cd-adc9963cbedd" />
 
 
