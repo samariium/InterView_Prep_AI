@@ -9,7 +9,7 @@ import { API_PATHS } from '../../utils/apiPaths';
 import Modal from '../../components/Modal';
 import moment from 'moment'
 import SummaryCard from '../../components/Cards/SummaryCard';
-import CreateSessionForm from './createSessionForm';
+import CreateSessionForm from './CreateSessionForm';
 import DeleteAlertContent from '../../components/DeleteAlertContent';
 
 const Dashboard = () => {
