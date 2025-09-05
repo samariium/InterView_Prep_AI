@@ -42,7 +42,11 @@ It provides a simple login system, a personalized dashboard, and session managem
    📝 Session Management – Create, track, and organize interview practice sessions  <br>
    ⚡ Fast & Responsive UI – Smooth performance across devices  <br>
    🎯 Simple & User-Friendly – Clean design for easy navigation  <br>
-   
+
+   DASHBOARD <br>
+   📝The dashboard provides users with a centralized space to manage their interview preparation.  <br>
+   🎯It displays key features like upcoming sessions, progress tracking, and easy navigation to different sections of the app.  <br>
+
    <img width="2847" height="1543" alt="image" src="https://github.com/user-attachments/assets/46426af5-81e3-4e7d-8ece-35defedeeb4c" />
    <img width="2879" height="1410" alt="image" src="https://github.com/user-attachments/assets/f577ee20-19d9-4267-9103-476e7ad31527" />
    <img width="2842" height="1414" alt="image" src="https://github.com/user-attachments/assets/a91f50b0-7959-408b-80eb-4c5a84146b24" />
