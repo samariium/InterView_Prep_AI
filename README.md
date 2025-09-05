@@ -35,7 +35,7 @@ It provides a simple login system, a personalized dashboard, and session managem
 
 LOGIN PAGE <br>
    - The login page allows users to securely sign in with their credentials before accessing the platform.<br>
-   <img width="2852" height="1532" alt="image" src="https://github.com/user-attachments/assets/dc4f44ca-3f31-45b8-8687-ccaba78e6b39" /> <br>
+   <img width="2852" height="1532" alt="image" src="https://github.com/user-attachments/assets/dc4f44ca-3f31-45b8-8687-ccaba78e6b39" />
 FEATURES <br>
    - User Authentication – Secure login system for personalized access  <br>
    - Dashboard – View and manage interview preparation sessions in one place  <br>
