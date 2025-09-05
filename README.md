@@ -27,13 +27,15 @@ It provides a simple login system, a personalized dashboard, and session managem
 
 ⚙️ Installation & Setup<br>
 1. Clone the repository  <br>
-   git clone https://github.com/your-username/AI-Prep.git<br>
+   git clone https://github.com/samariium/InterView_Prep_AI.git <br>
    cd AI-Prep<br>
    npm install<br>
    npm run dev<br>
    mpn run build<br>
 
+   DASHBOARD <br>
    <img width="2852" height="1532" alt="image" src="https://github.com/user-attachments/assets/dc4f44ca-3f31-45b8-8687-ccaba78e6b39" />
+   FEATURES <br>
    <img width="2845" height="1392" alt="image" src="https://github.com/user-attachments/assets/8e79d1f5-943c-4142-a5e1-ee2cbd458f62" />
    <img width="2847" height="1543" alt="image" src="https://github.com/user-attachments/assets/46426af5-81e3-4e7d-8ece-35defedeeb4c" />
    <img width="2879" height="1410" alt="image" src="https://github.com/user-attachments/assets/f577ee20-19d9-4267-9103-476e7ad31527" />
