@@ -15,15 +15,15 @@ It provides a simple login system, a personalized dashboard, and session managem
 - Backend: Node.js + Express<br>   
 - Database: MongoDB <br>
 
-📂 Project Structure
-│── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Login, Dashboard, etc.
-│ ├── assets/ # Images, icons, etc.
-│ └── App.jsx # Main app entry
-│── public/
-│── package.json
-│── README.md  
+📂 Project Structure<br>
+│── src/<br>
+│ ├── components/ # Reusable UI components<br>
+│ ├── pages/ # Login, Dashboard, etc.<br>
+│ ├── assets/ # Images, icons, etc.<br>
+│ └── App.jsx # Main app entry<br>
+│── public/<br>
+│── package.json<br>
+│── README.md  <br>
 
 ⚙️ Installation & Setup
 1. Clone the repository  
