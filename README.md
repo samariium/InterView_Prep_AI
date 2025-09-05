@@ -4,10 +4,10 @@ AI-Prep is a web application designed to help users prepare for interviews with 
 It provides a simple login system, a personalized dashboard, and session management features for users.
 
 🚀 Features
-- 🔑 User Authentication – Secure login functionality <br>
-- 📊 Dashboard – Personalized dashboard after login  <br>
-- 📝 Session Management – Create and manage interview practice sessions <br> 
-- ⚡ Fast & Responsive UI – Built with modern frontend tools  <br>
+-  User Authentication – Secure login functionality <br>
+-  Dashboard – Personalized dashboard after login  <br>
+-  Session Management – Create and manage interview practice sessions <br> 
+-  Fast & Responsive UI – Built with modern frontend tools  <br>
 
 🛠️ Tech Stack<br>
 - Frontend: React (Vite)  <br>
@@ -27,25 +27,25 @@ It provides a simple login system, a personalized dashboard, and session managem
 
 ⚙️ Installation & Setup<br>
 1. Clone the repository  <br>
-   git clone https://github.com/samariium/InterView_Prep_AI.git <br>
-   cd AI-Prep<br>
-   npm install<br>
-   npm run dev<br>
-   mpn run build<br>
+   -git clone https://github.com/samariium/InterView_Prep_AI.git <br>
+   -cd AI-Prep<br>
+   -npm install<br>
+   -npm run dev<br>
+   -npm run build<br>
 
    LOGIN PAGE <br>
-   The login page allows users to securely sign in with their credentials before accessing the platform.<br>
+   -The login page allows users to securely sign in with their credentials before accessing the platform.<br>
    <img width="2852" height="1532" alt="image" src="https://github.com/user-attachments/assets/dc4f44ca-3f31-45b8-8687-ccaba78e6b39" />
    FEATURES <br>
-   🔑 User Authentication – Secure login system for personalized access  <br>
-   📊 Dashboard – View and manage interview preparation sessions in one place  <br>
-   📝 Session Management – Create, track, and organize interview practice sessions  <br>
-   ⚡ Fast & Responsive UI – Smooth performance across devices  <br>
-   🎯 Simple & User-Friendly – Clean design for easy navigation  <br>
+   - User Authentication – Secure login system for personalized access  <br>
+   - Dashboard – View and manage interview preparation sessions in one place  <br>
+   - Session Management – Create, track, and organize interview practice sessions  <br>
+   - Fast & Responsive UI – Smooth performance across devices  <br>
+   - Simple & User-Friendly – Clean design for easy navigation  <br>
 
    DASHBOARD <br>
-   📝The dashboard provides users with a centralized space to manage their interview preparation.  <br>
-   🎯It displays key features like upcoming sessions, progress tracking, and easy navigation to different sections of the app.  <br>
+   - The dashboard provides users with a centralized space to manage their interview preparation.  <br>
+   - It displays key features like upcoming sessions, progress tracking, and easy navigation to different sections of the app.  <br>
 
    <img width="2847" height="1543" alt="image" src="https://github.com/user-attachments/assets/46426af5-81e3-4e7d-8ece-35defedeeb4c" />
    <img width="2879" height="1410" alt="image" src="https://github.com/user-attachments/assets/f577ee20-19d9-4267-9103-476e7ad31527" />
