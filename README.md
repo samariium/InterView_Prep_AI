@@ -1,6 +1,6 @@
-# 🧑‍💻 AI-Prep
+# 🧑‍💻 Interview AI-Prep
 
-AI-Prep is a web application designed to help users prepare for interviews with an **interactive and structured approach**.  
+Interview AI-Prep is a web application designed to help users prepare for interviews with an **interactive and structured approach**.  
 It provides a **secure login system**, a **personalized dashboard**, and **session management features** for efficient preparation.
 
 ---
