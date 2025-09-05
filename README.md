@@ -4,16 +4,16 @@ AI-Prep is a web application designed to help users prepare for interviews with 
 It provides a simple login system, a personalized dashboard, and session management features for users.
 
 🚀 Features
-- 🔑 User Authentication – Secure login functionality  
-- 📊 Dashboard – Personalized dashboard after login  
-- 📝 Session Management – Create and manage interview practice sessions  
-- ⚡ Fast & Responsive UI – Built with modern frontend tools  
+- 🔑 User Authentication – Secure login functionality <br>
+- 📊 Dashboard – Personalized dashboard after login  <br>
+- 📝 Session Management – Create and manage interview practice sessions <br> 
+- ⚡ Fast & Responsive UI – Built with modern frontend tools  <br>
 
-🛠️ Tech Stack
-- Frontend: React (Vite)  
-- Styling: CSS / Tailwind   
-- Backend: Node.js + Express   
-- Database: MongoDB 
+🛠️ Tech Stack<br>
+- Frontend: React (Vite)  <br>
+- Styling: CSS / Tailwind  <br> 
+- Backend: Node.js + Express<br>   
+- Database: MongoDB <br>
 
 📂 Project Structure
 │── src/
