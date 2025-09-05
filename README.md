@@ -22,7 +22,7 @@ It provides a **secure login system**, a **personalized dashboard**, and **sessi
 
 ---
 
-## 📂 Project Structure<br>
+## 📂 Project Structure
 │── src/<br>
 │ ├── components/ # Reusable UI components<br>
 │ ├── pages/ # Login, Dashboard, etc.<br>
