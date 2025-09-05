@@ -34,7 +34,7 @@ It provides a simple login system, a personalized dashboard, and session managem
    - npm run build<br>
 
    LOGIN PAGE <br>
-   -The login page allows users to securely sign in with their credentials before accessing the platform.<br>
+   - The login page allows users to securely sign in with their credentials before accessing the platform.<br>
    <img width="2852" height="1532" alt="image" src="https://github.com/user-attachments/assets/dc4f44ca-3f31-45b8-8687-ccaba78e6b39" />
    FEATURES <br>
    - User Authentication – Secure login system for personalized access  <br>
@@ -46,8 +46,6 @@ It provides a simple login system, a personalized dashboard, and session managem
    DASHBOARD <br>
    - The dashboard provides users with a centralized space to manage their interview preparation.  <br>
    - It displays key features like upcoming sessions, progress tracking, and easy navigation to different sections of the app.  <br>
-
-   <img width="2847" height="1543" alt="image" src="https://github.com/user-attachments/assets/46426af5-81e3-4e7d-8ece-35defedeeb4c" />
    <img width="2879" height="1410" alt="image" src="https://github.com/user-attachments/assets/f577ee20-19d9-4267-9103-476e7ad31527" />
    <img width="2842" height="1414" alt="image" src="https://github.com/user-attachments/assets/a91f50b0-7959-408b-80eb-4c5a84146b24" />
    <img width="2844" height="1407" alt="image" src="https://github.com/user-attachments/assets/917a386d-3686-4534-b6cd-adc9963cbedd" />
