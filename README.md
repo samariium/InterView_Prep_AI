@@ -22,17 +22,6 @@ It provides a **secure login system**, a **personalized dashboard**, and **sessi
 
 ---
 
-## 📂 Project Structure
-│── src/<br>
-│ ├── components/ # Reusable UI components<br>
-│ ├── pages/ # Login, Dashboard, etc.<br>
-│ ├── assets/ # Images, icons, etc.<br>
-│ └── App.jsx # Main app entry<br>
-│── public/<br>
-│── package.json<br>
-│── README.md  <br>
----
-
 ## 📸 Screenshots & Features
 
 ### 🔑 Login Page
