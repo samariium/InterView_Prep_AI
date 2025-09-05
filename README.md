@@ -25,13 +25,13 @@ It provides a simple login system, a personalized dashboard, and session managem
 │── package.json<br>
 │── README.md  <br>
 
-⚙️ Installation & Setup
-1. Clone the repository  
-   git clone https://github.com/your-username/AI-Prep.git
-   cd AI-Prep
-   npm install
-   npm run dev
-   mpn run build
+⚙️ Installation & Setup<br>
+1. Clone the repository  <br>
+   git clone https://github.com/your-username/AI-Prep.git<br>
+   cd AI-Prep<br>
+   npm install<br>
+   npm run dev<br>
+   mpn run build<br>
 
    <img width="2852" height="1532" alt="image" src="https://github.com/user-attachments/assets/dc4f44ca-3f31-45b8-8687-ccaba78e6b39" />
    <img width="2845" height="1392" alt="image" src="https://github.com/user-attachments/assets/8e79d1f5-943c-4142-a5e1-ee2cbd458f62" />
